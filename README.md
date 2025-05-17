@@ -8,9 +8,6 @@ Self study web developer
 * ✉️  You can contact me at [insea.mokhawong.123@gmail.com](mailto:insea.mokhawong.123@gmail.com)
 * 🧠  I'm learning Full Stack Developer currently
 
-<a href="https://www.github.com/IMWebDev007" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/IMWebDev007?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
